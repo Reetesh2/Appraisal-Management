@@ -68,7 +68,7 @@ public class JpaConfig {
         dataSource.setDriverClassName(env.getProperty("jdbc.driverClassName"));
         dataSource.setUrl(env.getProperty("jdbc.url"));
         dataSource.setUsername("root");
-        dataSource.setPassword("root");
+        dataSource.setPassword("79894656");
         return dataSource;
     }
 
